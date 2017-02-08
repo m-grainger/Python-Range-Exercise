@@ -1,2 +1,3 @@
-for i in reversed(range(4)):
+for i in range(3,-1,-1):
     (print(i))
+
